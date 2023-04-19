@@ -12,6 +12,8 @@ As próximas N linhas serão as propriedades de cada tarefa no formato a seguir:
 da tarefa (é garantido que os id vão de 1 até N); o segundo será o tempo para a resolução (em ms) e os
 restantes (caso existam) os ids de tarefas de que esta depende.
 Saída: a cada tarefa realizada deve se imprimir “tarefa id feita”, sendo id o id da tarefa.
+
+
 Exemplo
 Entrada:
 1 4
